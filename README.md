@@ -3,7 +3,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=manojpawarsj12)
-Here are some ideas to get you started:
+
 
 
 - 🌱 I’m currently learning ...Deep Learning, Javascript Nodejs
