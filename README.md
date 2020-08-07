@@ -49,11 +49,13 @@
 
 
 
+[![Manoj Pawar github stats](https://github-readme-stats.vercel.app/api?username=manojpawarsj12)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Manoj Pawar github stats](https://github-readme-stats.vercel.app/api?username=manojpawarsj12&show_icons=true&theme=radical)
 
 
 
-[website]: https://www.manojpawarsj.me
+[website]: https://manojpawarsj.me/
 
 [instagram]: https://instagram.com/manojpawarsj11
 [linkedin]: https://linkedin.com/in/manojpawarsj
