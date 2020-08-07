@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Deep Learning, NodeJS/Express**
 
-- 👨‍💻 All of my projects are available at [manojpawarsj.me](manojpawarsj.me)
-
-- 📝 I regulary write articles on [https://manojpawarsj12.github.io/](https://manojpawarsj12.github.io/)
-
 - 💬 Ask me about **Computer Vision, Hyperparameters Tuning maybe**
 
 - 📫 How to reach me **manojpawarsj.mp11@gmail.com**
