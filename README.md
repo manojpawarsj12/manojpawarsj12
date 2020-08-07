@@ -1,60 +1,27 @@
+<h1 align="center">Hi 👋, I'm Manoj Pawar SJ</h1>
+<h3 align="center">A student developer interested in Deep Learning</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojpawarsj12" alt="manojpawarsj12" /> </p>
 
+- 🌱 I’m currently learning **Deep Learning, NodeJS/Express**
 
+- 👨‍💻 All of my projects are available at [manojpawarsj.me](manojpawarsj.me)
 
-![](https://komarev.com/ghpvc/?username=manojpawarsj12)
+- 📝 I regulary write articles on [https://manojpawarsj12.github.io/](https://manojpawarsj12.github.io/)
 
+- 💬 Ask me about **Computer Vision, Hyperparameters Tuning maybe**
 
+- 📫 How to reach me **manojpawarsj.mp11@gmail.com**
 
-## Hey there, I'm Manoj Pawar [website] 👋
-#### A Student, Developer 
----
-- 🔭 I’m currently looking for internships
-- 🌱 Trying to improve my skills everyday
-- 🥅 2020 Goals: Contribute more to Open Source projects and Learn more deeep learning algorithms
-- ⚡ Fun fact: I cam make overfited ml model at ezpz
+- ⚡ Fun fact **I can make overfited models at ezpz**
 
-### Connect with me:
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojpawarsj12&layout=compact&hide=html" alt="manojpawarsj12" />
 
-[<img align="left" alt="manojpawarsj.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojpawarsj12&show_icons=true" alt="manojpawarsj12" />
 
-[<img align="left" alt="manojpawarsj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="manojpawarsj11 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="sedlyf.py" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/ios-filled/26/000000/c-plus-plus-logo.png"/>
-
-<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/ios-filled/26/000000/javascript.png"/>
-
-
-
-<img src="https://img.icons8.com/ios-filled/26/000000/python.png"/>
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/50/000000/linux.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-
-
-
-
-
-[website]: https://manojpawarsj.me/
-
-[instagram]: https://instagram.com/manojpawarsj11
-[linkedin]: https://linkedin.com/in/manojpawarsj
-[facebook]: https://facebook.com/sedlyf
-[xda]: https://forum.xda-developers.com/member.php?u=9778581
+<p align="center">
+<a href="https://linkedin.com/in/manojpawarsj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manojpawarsj" height="30" width="30" /></a>
+<a href="https://kaggle.com/luffy1105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="luffy1105" height="30" width="30" /></a>
+<a href="https://fb.com/sedlyf.py" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sedlyf.py" height="30" width="30" /></a>
+<a href="https://instagram.com/manojpawarsj11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manojpawarsj11" height="30" width="30" /></a>
+</p>
