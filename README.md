@@ -49,9 +49,6 @@
 
 
 
-[![manojpawarsj12 github stats](https://github-readme-stats.vercel.app/api?username=manojpawarsj12)]
-
-![Manoj Pawar github stats](https://github-readme-stats.vercel.app/api?username=manojpawarsj12&show_icons=true&theme=radical)
 
 
 
