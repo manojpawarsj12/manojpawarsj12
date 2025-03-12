@@ -8,5 +8,4 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojpawarsj12&show_icons=true" alt="manojpawarsj12" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojpawarsj12&layout=compact&count_private=true&hide=jupyter%20notebook" alt="manojpawarsj12">
