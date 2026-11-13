@@ -8,7 +8,9 @@ I build backends for live data: real-time platforms, event-driven microservices 
 
 ### What I'm working on
 
-Onsite at **ISTRAC, ISRO**, building backend services for a real-time monitoring and control platform across ISRO's ground station network. The work spans hardware integration over TCP/IP sockets, binary protocol parsing, a config-driven rules engine, SSE streaming with RBAC, and bandwidth-optimised MQTT. It all runs on an offline, air-gapped RHEL 9 network.
+Onsite at **ISTRAC, ISRO**, building backend services for a real-time monitoring and control platform across ISRO's ground station network. The work spans hardware integration over TCP/IP sockets, binary protocol parsing, a config-driven rules engine, SSE streaming with RBAC, and bandwidth-optimised MQTT. It all runs on an offline, air-gapped RHEL 9 network, and I work directly with ISRO operators to define alarm rules and workflows.
+
+Before that, I owned design and delivery of the FDS and SPACEMAP backends at Digantara, from requirements to production: design reviews, story-point estimation, task distribution, weekly stand-ups, code review and mentoring.
 
 ### Results I'm proud of
 
@@ -30,7 +32,7 @@ Onsite at **ISTRAC, ISRO**, building backend services for a real-time monitoring
 
 ### Projects
 
-- **[Gobber](https://github.com/manojpawarsj12/gobber):** an npm-compatible package installer in Go with a global store, symlinked `node_modules` and parallel HTTP/2 downloads. Benchmarked ~6× faster than npm on cold installs and ~65× faster on CI installs.
+- **[Gobber](https://github.com/manojpawarsj12/gobber):** an npm-compatible package installer in Go with a global store, symlinked `node_modules`, parallel HTTP/2 downloads and integration tests. Benchmarked ~6× faster than npm on cold installs and ~65× faster on CI installs.
 - **[smolie-js](https://github.com/manojpawarsj12/smolie-js):** a reactive UI library under 1 KB, with signals, effects and DOM helpers.
 - **[App Tracker](https://github.com/manojpawarsj12/apptracker):** a Python time tracker on PyPI that charts time spent per app and per website.
 - **[manojpawarsj12.github.io](https://github.com/manojpawarsj12/manojpawarsj12.github.io):** my portfolio, built with React, Vite and Tailwind.
