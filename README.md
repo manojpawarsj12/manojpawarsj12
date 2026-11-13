@@ -30,7 +30,7 @@ Onsite at **ISTRAC, ISRO**, building backend services for a real-time monitoring
 
 ### Projects
 
-- **[Gobber](https://github.com/manojpawarsj12/gobber):** a Node.js package manager written in Go that installs packages significantly faster than npm.
+- **[Gobber](https://github.com/manojpawarsj12/gobber):** an npm-compatible package installer in Go with a global store, symlinked `node_modules` and parallel HTTP/2 downloads. Benchmarked ~6× faster than npm on cold installs and ~65× faster on CI installs.
 - **[smolie-js](https://github.com/manojpawarsj12/smolie-js):** a reactive UI library under 1 KB, with signals, effects and DOM helpers.
 - **[App Tracker](https://github.com/manojpawarsj12/apptracker):** a Python time tracker on PyPI that charts time spent per app and per website.
 - **[manojpawarsj12.github.io](https://github.com/manojpawarsj12/manojpawarsj12.github.io):** my portfolio, built with React, Vite and Tailwind.
